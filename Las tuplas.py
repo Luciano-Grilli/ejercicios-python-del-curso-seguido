@@ -26,7 +26,7 @@ print(mi2tupla.count("hola"))
 print(len(mi2tupla))
 
 #asiganr valores de una tupla a variables
-tuplanueva=("juan",17,2000)
-nombre,edad,agno = tuplanueva
+tuplap=("juan",17,2000)
+nombre,edad,agno = tuplap
 
 print(nombre,edad,agno)
